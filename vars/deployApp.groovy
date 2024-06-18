@@ -1,5 +1,5 @@
 #!/user/bin/env groovy
 
-def Call() {
+def call() {
     echo 'Deploying the app'
 }
